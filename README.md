@@ -11,10 +11,3 @@ Anda dapat melihat pratinjau proyek "HTML CSS Portfolio" melalui link berikut: [
 - Desain responsif
 - Tampilan portofolio yang menarik
 
-## Instalasi
-
-Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
-
-1. Clone repositori ini ke komputer Anda dengan perintah berikut:
-   ```bash
-   git clone https://github.com/akhmadnuryasin/project-html-css-portofolio-.git
